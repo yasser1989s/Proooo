@@ -1,0 +1,6 @@
+{
+  "name": "Pro Delivery",
+  "description": "Mobile-first parcel delivery management app for drivers with AI label scanning, German address geocoding, smart route planning, proof of delivery, and history.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
